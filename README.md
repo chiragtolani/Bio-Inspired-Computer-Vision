@@ -1,4 +1,4 @@
-# Bio-Inspired-Computer-Vision
+# Bio-Inspired-Computer-Vision (Still in Progress)
 
 This repository contains code for training and evaluating a spiking neural network (SNN) with a spiking RNN region‑of‑interest (ROI) predictor, alongside a CNN baseline, on voxelised event‑based vision data.
 
